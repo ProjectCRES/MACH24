@@ -1,2 +1,2 @@
 # MACH24
-A repo that contains NottsSEDS software for the Mach24 competition.
+A repo that contains Project CRES software for the Mach24 competition.
